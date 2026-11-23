@@ -23,3 +23,16 @@ Text Domain:  aleser-hijo
 .aleser-pie p {
 	margin: 0.25rem 0;
 }
+
+
+/* Caja de contacto al final de las entradas (petición 3) */
+.aleser-caja-contacto {
+	margin-top: 2rem;
+	padding: 1rem 1.25rem;
+	background-color: #E6F2F7;
+	border-left: 4px solid var(--wp--preset--color--mar);
+	border-radius: 4px;
+}
+.aleser-caja-contacto p {
+	margin: 0;
+}
